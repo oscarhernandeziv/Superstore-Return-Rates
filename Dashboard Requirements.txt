@@ -1,0 +1,15 @@
+Dashboard Requirements
+
+1. Dashboard is intended to help Superstore analyze the return rates of their products across multiple variables.
+
+2. Dashboard will pull data from the provided Superstore.xls document.
+
+3. Dashboard will contain the following worksheets.
+⁃ (2.1) A scatterplot showing the correlation between total sales and total returns. Aggregate by product subcategory. Do sales always correlate positively with returns?
+⁃ (2.2) A bar chart showing the return rate by product category
+⁃ (2.3) The return rate by customer. To find customers who are more prone to making returns, add a filter to remove customers with only 1 order.
+⁃ (2.4) A map showing the return rate by some geographic measure (state, city, etc.) to see if there is a geographic concentration to returned orders
+⁃ (2.5) The return rate by some measure of time (month, week, etc.) to see if there is a seasonal effect to returned orders
+⁃ (2.6) Two different kinds of composite charts showing the return rate for a mix of multiple factors (date/geography/product category/etc.)
+
+4. Dashboard will have several filters that can be adjusted by the user to narrow down insights into return rates, including the return rate, total sales, product category and subcategory, order date by month, order location by state, and more.
