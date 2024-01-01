@@ -1,14 +1,16 @@
 # Superstore Return Rates
-## Introduction
+
+## Overview
 In this project, I served as a data analyst for Superstore, dedicating a significant amount of time to assisting them in comprehending the underlying reasons behind customer returns and devising strategies to mitigate the volume of returned orders.
 
 ## Tableau Public Dashboard
 To view the Tableau Public dashboard associated with this project, visit the following link:
 [Superstore Return Rate Analysis](https://public.tableau.com/views/SuperstoreReturnRateAnalysis/FinalAnalysis?:language=en-US&:display_count=n&:origin=viz_share_link)
 
-## Aim of this project
+## Objective
 Based on the dataset, various factors such as category, month, state, and customer can influence the return rate in the Superstore dataset. The purpose of this dashboard was to analyze the Superstore.xls dataset and provide valuable insights into its current return rates. As assigned by the CEO, my task was to identify the most significant factors that can impact returns. These included determining the months with the highest return rate, the category that contributed the most to returns, the customers with the highest return rates, and the states with the highest return rates. By answering these questions, we aimed to better understand the key factors influencing returns and to provide actionable solutions for Superstore to reduce return rates and increase overall performance.
- ## Target audience
+
+## Target audience
  The target audience for this project included:
 1. CEO: To identify the key factors contributing to a high return rate and develop effective policies to mitigate the issue.
 2.	Store manager: To empower store managers with valuable insights derived from the CEO's policies.
